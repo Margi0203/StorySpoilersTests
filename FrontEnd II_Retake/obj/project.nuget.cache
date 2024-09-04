@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "uSZb/YqHr0s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\FrontEnd II_Retake\\FrontEnd II_Retake\\FrontEnd II_Retake\\FrontEnd II_Retake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.codecoverage\\17.11.0\\microsoft.codecoverage.17.11.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.0\\microsoft.net.test.sdk.17.11.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.0\\microsoft.testplatform.objectmodel.17.11.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.testplatform.testhost\\17.11.0\\microsoft.testplatform.testhost.17.11.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\nunit\\4.2.1\\nunit.4.2.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\nunit.analyzers\\4.3.0\\nunit.analyzers.4.3.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\selenium.support\\4.24.0\\selenium.support.4.24.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\selenium.webdriver.chromedriver\\128.0.6613.8600\\selenium.webdriver.chromedriver.128.0.6613.8600.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
